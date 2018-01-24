@@ -25,4 +25,4 @@ DOTA2官网。
 * [x] sublime
 
 ### 效果
-![](https://github.com/mirolwu/dota2/blob/master/dota2%E5%AE%98%E7%BD%91/img/game.gif)
+![](https://github.com/mirolwu/dota2/blob/master/img/game.gif)
