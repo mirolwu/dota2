@@ -369,3 +369,13 @@ video {
 	color: red;
 	font-size: 0.479042rem;
 }
+
+
+@media screen and (max-width: 1024px) {
+    .bg-wrap1 {
+        background: url(http://www.dota2.com.cn/images/cover20171031/bg_video.jpg) center center / contain no-repeat;
+    }
+    .video-bg {
+    	display: none;
+    }
+}
